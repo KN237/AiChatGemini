@@ -2,7 +2,7 @@ import 'package:google_gemini/google_gemini.dart';
 
 class AiHandler {
   final gemini = GoogleGemini(
-    apiKey: "AIzaSyBsiwDgLmEjvqj7rEQOGPb4E8xmSV8JclE",
+    apiKey: "",
   );
 
   Future<String> getResponse(String message) async {
