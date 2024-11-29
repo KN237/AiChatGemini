@@ -11,8 +11,8 @@
 </div>
 
 <p align="center">
-  <a href="#page_with_curl-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#thought_balloon-inspiration">Inspiration</a>
+  <a href="#page_with_curl-about">About</a>&nbsp;&nbsp;&nbsp;
+ 
 </p>
 
 ## :page_with_curl: About
